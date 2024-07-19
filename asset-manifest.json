@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/life-left/static/css/main.1763bbf2.css",
+    "main.js": "/life-left/static/js/main.13d299a3.js",
+    "static/media/clockTick.mp3": "/life-left/static/media/clockTick.1d234cc64acf0ce94a1a.mp3",
+    "index.html": "/life-left/index.html",
+    "main.1763bbf2.css.map": "/life-left/static/css/main.1763bbf2.css.map",
+    "main.13d299a3.js.map": "/life-left/static/js/main.13d299a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1763bbf2.css",
+    "static/js/main.13d299a3.js"
+  ]
+}
